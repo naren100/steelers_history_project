@@ -1,0 +1,75 @@
+Steelers Game Data Parser — Technical Explanation
+
+Purpose
+This script filters and formats Pittsburgh Steelers game history from a full NFL games.csv dataset. It extracts key game-level fields like year, date, opponent, score, result, location, and stadium, then saves the cleaned output to a new CSV file.
+
+Line-by-Line Explanation
+import pandas as pd
+Imports the pandas library for working with tabular data.
+
+import os
+Imports the OS module to handle file paths in a platform-independent way.
+
+project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+Finds the absolute path to the root of your project by going two directories up from the script’s location.
+
+data_dir = os.path.join(project_root, "data")
+Constructs a path to the /data directory.
+
+csv_path = os.path.join(data_dir, "games.csv")
+Builds the full path to your NFL game dataset file (games.csv).
+
+df = pd.read_csv(csv_path)
+Loads the entire dataset into a pandas DataFrame called df.
+
+print(df.columns.tolist())
+Prints a list of all column names in the dataset for inspection.
+
+steelers_df = df[(df["home_team"] == "PIT") | (df["away_team"] == "PIT")].copy()
+Filters the dataset to include only games where the Steelers played, whether as home or away team.
+
+def get_opponent(row): return row["away_team"] if row["home_team"] == "PIT" else row["home_team"]
+Returns the opponent’s team code based on whether Pittsburgh was home or away.
+
+def get_location(row): return "Home" if row["home_team"] == "PIT" else "Away"
+Returns whether the Steelers played at home or away.
+
+def get_result(row):
+
+Returns 'W' if the Steelers won, 'L' if they lost, or 'T' if it was a tie.
+It uses the result column, which is the point differential from the home team’s perspective.
+def get_score(row):
+
+Returns a formatted string like "23-17" representing the final score from Pittsburgh’s point of view.
+steelers_df["Year"] = steelers_df["season"]
+Adds a new column called Year directly from the season field.
+
+steelers_df["Opponent"] = steelers_df.apply(get_opponent, axis=1)
+Applies the get_opponent function to each row.
+
+steelers_df["Location"] = steelers_df.apply(get_location, axis=1)
+Applies the get_location function to each row.
+
+steelers_df["Result"] = steelers_df.apply(get_result, axis=1)
+Applies the get_result function to each row.
+
+steelers_df["Score"] = steelers_df.apply(get_score, axis=1)
+Applies the get_score function to each row.
+
+steelers_df["Date"] = pd.to_datetime(steelers_df["gameday"])
+Parses the gameday column into a proper pandas datetime object for sorting and formatting.
+
+final_df = steelers_df[["Year", "Date", "Opponent", "Score", "Result", "Location", "stadium"]]
+Builds the final cleaned DataFrame with only the selected fields.
+
+final_df = final_df.sort_values(by=["Year", "Date"])
+Sorts the games chronologically within each season.
+
+output_path = os.path.join(data_dir, "steelers_games_by_year.csv")
+Builds the path where the cleaned output will be saved.
+
+final_df.to_csv(output_path, index=False)
+Saves the cleaned DataFrame to a CSV file, excluding the row index.
+
+print(final_df.tail())
+Displays the last few rows of the cleaned data as a final confirmation.

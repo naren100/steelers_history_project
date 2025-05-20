@@ -1,0 +1,450 @@
+Year,Date,Opponent,Score,Result,Location,stadium
+1999,1999-09-12,CLE,43-0,L,Away,Cleveland Browns Stadium
+1999,1999-09-19,BAL,23-20,L,Away,PSINet Stadium
+1999,1999-09-26,SEA,10-29,L,Home,Three Rivers Stadium
+1999,1999-10-03,JAX,3-17,L,Home,Three Rivers Stadium
+1999,1999-10-10,BUF,21-24,W,Away,Ralph Wilson Stadium
+1999,1999-10-17,CIN,17-3,L,Away,Cinergy Field
+1999,1999-10-25,ATL,13-9,W,Home,Three Rivers Stadium
+1999,1999-11-07,SF,27-6,L,Away,3Com Park
+1999,1999-11-14,CLE,15-16,L,Home,Three Rivers Stadium
+1999,1999-11-21,TEN,10-16,W,Away,Adelphia Coliseum
+1999,1999-11-28,CIN,20-27,L,Home,Three Rivers Stadium
+1999,1999-12-02,JAX,6-20,W,Away,Alltel Stadium
+1999,1999-12-12,BAL,24-31,L,Home,Three Rivers Stadium
+1999,1999-12-18,KC,19-35,W,Away,Arrowhead Stadium
+1999,1999-12-26,CAR,30-20,W,Home,Three Rivers Stadium
+1999,2000-01-02,TEN,36-47,L,Home,Three Rivers Stadium
+2000,2000-09-03,BAL,0-16,L,Home,Three Rivers Stadium
+2000,2000-09-17,CLE,20-23,W,Away,Cleveland Browns Stadium
+2000,2000-09-24,TEN,20-23,L,Home,Three Rivers Stadium
+2000,2000-10-01,JAX,24-13,L,Away,Alltel Stadium
+2000,2000-10-08,NYJ,20-3,L,Away,Giants Stadium
+2000,2000-10-15,CIN,15-0,W,Home,Three Rivers Stadium
+2000,2000-10-22,CLE,22-0,W,Home,Three Rivers Stadium
+2000,2000-10-29,BAL,9-6,L,Away,PSINet Stadium
+2000,2000-11-05,TEN,7-9,W,Away,Adelphia Coliseum
+2000,2000-11-12,PHI,23-26,L,Home,Three Rivers Stadium
+2000,2000-11-19,JAX,24-34,L,Home,Three Rivers Stadium
+2000,2000-11-26,CIN,48-28,L,Away,Paul Brown Stadium
+2000,2000-12-03,OAK,21-20,W,Home,Three Rivers Stadium
+2000,2000-12-10,NYG,10-30,W,Away,Giants Stadium
+2000,2000-12-16,WAS,24-3,W,Home,Three Rivers Stadium
+2000,2000-12-24,SD,34-21,L,Away,Qualcomm Stadium
+2001,2001-09-09,JAX,3-21,W,Away,Alltel Stadium
+2001,2001-09-30,BUF,20-3,L,Away,Ralph Wilson Stadium
+2001,2001-10-07,CIN,16-7,W,Home,Heinz Field
+2001,2001-10-14,KC,20-17,L,Away,Arrowhead Stadium
+2001,2001-10-21,TB,17-10,L,Away,Raymond James Stadium
+2001,2001-10-29,TEN,34-7,W,Home,Heinz Field
+2001,2001-11-04,BAL,10-13,L,Home,Heinz Field
+2001,2001-11-11,CLE,15-12,L,Away,Cleveland Browns Stadium
+2001,2001-11-18,JAX,20-7,W,Home,Heinz Field
+2001,2001-11-25,TEN,34-24,L,Away,Adelphia Coliseum
+2001,2001-12-02,MIN,21-16,W,Home,Heinz Field
+2001,2001-12-09,NYJ,18-7,W,Home,Heinz Field
+2001,2001-12-16,BAL,26-21,L,Away,PSINet Stadium
+2001,2001-12-23,DET,47-14,W,Home,Heinz Field
+2001,2001-12-30,CIN,23-26,W,Away,Paul Brown Stadium
+2001,2002-01-06,CLE,28-7,W,Home,Heinz Field
+2001,2002-01-20,BAL,27-10,W,Home,Heinz Field
+2001,2002-01-27,NE,17-24,L,Home,Heinz Field
+2002,2002-09-09,NE,14-30,W,Away,Gillette Stadium
+2002,2002-09-15,OAK,17-30,L,Home,Heinz Field
+2002,2002-09-29,CLE,16-13,W,Home,Heinz Field
+2002,2002-10-06,NO,29-32,W,Away,Louisiana Superdome
+2002,2002-10-13,CIN,34-7,L,Away,Paul Brown Stadium
+2002,2002-10-21,IND,28-10,W,Home,Heinz Field
+2002,2002-10-27,BAL,31-18,L,Away,Ravens Stadium
+2002,2002-11-03,CLE,23-20,L,Away,Cleveland Browns Stadium
+2002,2002-11-10,ATL,34-34,T,Home,Heinz Field
+2002,2002-11-17,TEN,23-31,W,Away,The Coliseum
+2002,2002-11-24,CIN,29-21,W,Home,Heinz Field
+2002,2002-12-01,JAX,25-23,L,Away,Alltel Stadium
+2002,2002-12-08,HOU,6-24,L,Home,Heinz Field
+2002,2002-12-15,CAR,30-14,W,Home,Heinz Field
+2002,2002-12-23,TB,17-7,L,Away,Raymond James Stadium
+2002,2002-12-29,BAL,34-31,W,Home,Heinz Field
+2002,2003-01-05,CLE,36-33,W,Home,Heinz Field
+2002,2003-01-11,TEN,31-34,W,Away,The Coliseum
+2003,2003-09-07,BAL,34-15,W,Home,Heinz Field
+2003,2003-09-14,KC,20-41,W,Away,Arrowhead Stadium
+2003,2003-09-21,CIN,17-10,L,Away,Paul Brown Stadium
+2003,2003-09-28,TEN,13-30,L,Home,Heinz Field
+2003,2003-10-05,CLE,13-33,L,Home,Heinz Field
+2003,2003-10-12,DEN,14-17,W,Away,Invesco Field at Mile High
+2003,2003-10-26,STL,21-33,L,Home,Heinz Field
+2003,2003-11-02,SEA,16-23,W,Away,Seahawks Stadium
+2003,2003-11-09,ARI,28-15,W,Home,Heinz Field
+2003,2003-11-17,SF,14-30,W,Away,3Com Park
+2003,2003-11-23,CLE,13-6,L,Away,Cleveland Browns Stadium
+2003,2003-11-30,CIN,20-24,L,Home,Heinz Field
+2003,2003-12-07,OAK,27-7,W,Home,Heinz Field
+2003,2003-12-14,NYJ,0-6,W,Away,Giants Stadium
+2003,2003-12-21,SD,40-24,W,Home,Heinz Field
+2003,2003-12-28,BAL,10-13,W,Away,M&T Bank Stadium
+2004,2004-09-12,OAK,24-21,W,Home,Heinz Field
+2004,2004-09-19,BAL,13-30,W,Away,M&T Bank Stadium
+2004,2004-09-26,MIA,13-3,L,Away,Pro Player Stadium
+2004,2004-10-03,CIN,28-17,W,Home,Heinz Field
+2004,2004-10-10,CLE,34-23,W,Home,Heinz Field
+2004,2004-10-17,DAL,24-20,L,Away,Texas Stadium
+2004,2004-10-31,NE,34-20,W,Home,Heinz Field
+2004,2004-11-07,PHI,27-3,W,Home,Heinz Field
+2004,2004-11-14,CLE,24-10,L,Away,Cleveland Browns Stadium
+2004,2004-11-21,CIN,19-14,L,Away,Paul Brown Stadium
+2004,2004-11-28,WAS,16-7,W,Home,Heinz Field
+2004,2004-12-05,JAX,17-16,L,Away,Alltel Stadium
+2004,2004-12-12,NYJ,17-6,W,Home,Heinz Field
+2004,2004-12-18,NYG,33-30,L,Away,Giants Stadium
+2004,2004-12-26,BAL,20-7,W,Home,Heinz Field
+2004,2005-01-02,BUF,29-24,L,Away,Ralph Wilson Stadium
+2004,2005-01-15,NYJ,20-17,W,Home,Heinz Field
+2004,2005-01-23,NE,27-41,L,Home,Heinz Field
+2005,2005-09-11,TEN,34-7,W,Home,Heinz Field
+2005,2005-09-18,HOU,27-7,L,Away,Reliant Stadium
+2005,2005-09-25,NE,20-23,L,Home,Heinz Field
+2005,2005-10-10,SD,24-22,L,Away,Qualcomm Stadium
+2005,2005-10-16,JAX,17-23,L,Home,Heinz Field
+2005,2005-10-23,CIN,27-13,L,Away,Paul Brown Stadium
+2005,2005-10-31,BAL,20-19,W,Home,Heinz Field
+2005,2005-11-06,GB,20-10,L,Away,Lambeau Field
+2005,2005-11-13,CLE,34-21,W,Home,Heinz Field
+2005,2005-11-20,BAL,13-16,W,Away,M&T Bank Stadium
+2005,2005-11-28,IND,7-26,W,Away,RCA Dome
+2005,2005-12-04,CIN,31-38,L,Home,Heinz Field
+2005,2005-12-11,CHI,21-9,W,Home,Heinz Field
+2005,2005-12-18,MIN,18-3,L,Away,Hubert H. Humphrey Metrodome
+2005,2005-12-24,CLE,41-0,L,Away,Cleveland Browns Stadium
+2005,2006-01-01,DET,35-21,W,Home,Heinz Field
+2005,2006-01-08,CIN,31-17,L,Away,Paul Brown Stadium
+2005,2006-01-15,IND,21-18,L,Away,RCA Dome
+2005,2006-01-22,DEN,34-17,L,Away,Invesco Field at Mile High
+2005,2006-02-05,SEA,21-10,W,Home,Ford Field
+2006,2006-09-07,MIA,28-17,W,Home,Heinz Field
+2006,2006-09-18,JAX,0-9,W,Away,Alltel Stadium
+2006,2006-09-24,CIN,20-28,L,Home,Heinz Field
+2006,2006-10-08,SD,13-23,W,Away,Qualcomm Stadium
+2006,2006-10-15,KC,45-7,W,Home,Heinz Field
+2006,2006-10-22,ATL,38-41,W,Away,Georgia Dome
+2006,2006-10-29,OAK,13-20,W,Away,McAfee Coliseum
+2006,2006-11-05,DEN,20-31,L,Home,Heinz Field
+2006,2006-11-12,NO,38-31,W,Home,Heinz Field
+2006,2006-11-19,CLE,24-20,L,Away,Cleveland Browns Stadium
+2006,2006-11-26,BAL,0-27,W,Away,M&T Bank Stadium
+2006,2006-12-03,TB,20-3,W,Home,Heinz Field
+2006,2006-12-07,CLE,27-7,W,Home,Heinz Field
+2006,2006-12-17,CAR,37-3,L,Away,Bank of America Stadium
+2006,2006-12-24,BAL,7-31,L,Home,Heinz Field
+2006,2006-12-31,CIN,23-17,L,Away,Paul Brown Stadium
+2007,2007-09-09,CLE,34-7,L,Away,Cleveland Browns Stadium
+2007,2007-09-16,BUF,26-3,W,Home,Heinz Field
+2007,2007-09-23,SF,37-16,W,Home,Heinz Field
+2007,2007-09-30,ARI,14-21,W,Away,University of Phoenix Stadium
+2007,2007-10-07,SEA,21-0,W,Home,Heinz Field
+2007,2007-10-21,DEN,28-31,W,Away,Invesco Field at Mile High
+2007,2007-10-28,CIN,24-13,L,Away,Paul Brown Stadium
+2007,2007-11-05,BAL,38-7,W,Home,Heinz Field
+2007,2007-11-11,CLE,31-28,W,Home,Heinz Field
+2007,2007-11-18,NYJ,16-19,W,Away,Giants Stadium
+2007,2007-11-26,MIA,3-0,W,Home,Heinz Field
+2007,2007-12-02,CIN,24-10,W,Home,Heinz Field
+2007,2007-12-09,NE,13-34,W,Away,Gillette Stadium
+2007,2007-12-16,JAX,22-29,L,Home,Heinz Field
+2007,2007-12-20,STL,41-24,L,Away,Edward Jones Dome
+2007,2007-12-30,BAL,21-27,W,Away,M&T Bank Stadium
+2007,2008-01-05,JAX,29-31,L,Home,Heinz Field
+2008,2008-09-07,HOU,38-17,W,Home,Heinz Field
+2008,2008-09-14,CLE,10-6,L,Away,Cleveland Browns Stadium
+2008,2008-09-21,PHI,6-15,W,Away,Lincoln Financial Field
+2008,2008-09-29,BAL,23-20,W,Home,Heinz Field
+2008,2008-10-05,JAX,26-21,L,Away,Jacksonville Municipal Stadium
+2008,2008-10-19,CIN,38-10,L,Away,Paul Brown Stadium
+2008,2008-10-26,NYG,14-21,L,Home,Heinz Field
+2008,2008-11-03,WAS,23-6,L,Away,FedExField
+2008,2008-11-09,IND,20-24,L,Home,Heinz Field
+2008,2008-11-16,SD,11-10,W,Home,Heinz Field
+2008,2008-11-20,CIN,27-10,W,Home,Heinz Field
+2008,2008-11-30,NE,33-10,L,Away,Gillette Stadium
+2008,2008-12-07,DAL,20-13,W,Home,Heinz Field
+2008,2008-12-14,BAL,13-9,L,Away,M&T Bank Stadium
+2008,2008-12-21,TEN,14-31,W,Away,LP Field
+2008,2008-12-28,CLE,31-0,W,Home,Heinz Field
+2008,2009-01-11,SD,35-24,W,Home,Heinz Field
+2008,2009-01-18,BAL,23-14,W,Home,Heinz Field
+2008,2009-02-01,ARI,27-23,L,Away,Raymond James Stadium
+2009,2009-09-10,TEN,13-10,W,Home,Heinz Field
+2009,2009-09-20,CHI,14-17,W,Away,Soldier Field
+2009,2009-09-27,CIN,20-23,W,Away,Paul Brown Stadium
+2009,2009-10-04,SD,38-28,W,Home,Heinz Field
+2009,2009-10-11,DET,28-20,L,Away,Ford Field
+2009,2009-10-18,CLE,27-14,W,Home,Heinz Field
+2009,2009-10-25,MIN,27-17,W,Home,Heinz Field
+2009,2009-11-09,DEN,28-10,L,Away,Invesco Field at Mile High
+2009,2009-11-15,CIN,12-18,L,Home,Heinz Field
+2009,2009-11-22,KC,24-27,W,Away,Arrowhead Stadium
+2009,2009-11-29,BAL,17-20,W,Away,M&T Bank Stadium
+2009,2009-12-06,OAK,24-27,L,Home,Heinz Field
+2009,2009-12-10,CLE,6-13,W,Away,Cleveland Browns Stadium
+2009,2009-12-20,GB,37-36,W,Home,Heinz Field
+2009,2009-12-27,BAL,23-20,W,Home,Heinz Field
+2009,2010-01-03,MIA,30-24,L,Away,Dolphin Stadium
+2010,2010-09-12,ATL,15-9,W,Home,Heinz Field
+2010,2010-09-19,TEN,19-11,L,Away,LP Field
+2010,2010-09-26,TB,38-13,L,Away,Raymond James Stadium
+2010,2010-10-03,BAL,14-17,L,Home,Heinz Field
+2010,2010-10-17,CLE,28-10,W,Home,Heinz Field
+2010,2010-10-24,MIA,23-22,L,Away,Sun Life Stadium
+2010,2010-10-31,NO,10-20,W,Away,Louisiana Superdome
+2010,2010-11-08,CIN,27-21,L,Away,Paul Brown Stadium
+2010,2010-11-14,NE,26-39,L,Home,Heinz Field
+2010,2010-11-21,OAK,35-3,W,Home,Heinz Field
+2010,2010-11-28,BUF,19-16,L,Away,Ralph Wilson Stadium
+2010,2010-12-05,BAL,13-10,L,Away,M&T Bank Stadium
+2010,2010-12-12,CIN,23-7,W,Home,Heinz Field
+2010,2010-12-19,NYJ,17-22,L,Home,Heinz Field
+2010,2010-12-23,CAR,27-3,W,Home,Heinz Field
+2010,2011-01-02,CLE,41-9,L,Away,Cleveland Browns Stadium
+2010,2011-01-15,BAL,31-24,W,Home,Heinz Field
+2010,2011-01-23,NYJ,24-19,W,Home,Heinz Field
+2010,2011-02-06,GB,25-31,W,Away,Cowboys Stadium
+2011,2011-09-11,BAL,7-35,W,Away,M&T Bank Stadium
+2011,2011-09-18,SEA,24-0,W,Home,Heinz Field
+2011,2011-09-25,IND,23-20,L,Away,Lucas Oil Stadium
+2011,2011-10-02,HOU,10-17,W,Away,Reliant Stadium
+2011,2011-10-09,TEN,38-17,W,Home,Heinz Field
+2011,2011-10-16,JAX,17-13,W,Home,Heinz Field
+2011,2011-10-23,ARI,32-20,L,Away,University of Phoenix Stadium
+2011,2011-10-30,NE,25-17,W,Home,Heinz Field
+2011,2011-11-06,BAL,20-23,L,Home,Heinz Field
+2011,2011-11-13,CIN,24-17,L,Away,Paul Brown Stadium
+2011,2011-11-27,KC,13-9,L,Away,Arrowhead Stadium
+2011,2011-12-04,CIN,35-7,W,Home,Heinz Field
+2011,2011-12-08,CLE,14-3,W,Home,Heinz Field
+2011,2011-12-19,SF,3-20,W,Away,Candlestick Park
+2011,2011-12-24,STL,27-0,W,Home,Heinz Field
+2011,2012-01-01,CLE,13-9,L,Away,Cleveland Browns Stadium
+2011,2012-01-08,DEN,23-29,W,Away,Sports Authority Field at Mile High
+2012,2012-09-09,DEN,19-31,W,Away,Sports Authority Field at Mile High
+2012,2012-09-16,NYJ,27-10,W,Home,Heinz Field
+2012,2012-09-23,OAK,31-34,W,Away,O.co Coliseum
+2012,2012-10-07,PHI,16-14,W,Home,Heinz Field
+2012,2012-10-11,TEN,23-26,W,Away,LP Field
+2012,2012-10-21,CIN,24-17,L,Away,Paul Brown Stadium
+2012,2012-10-28,WAS,27-12,W,Home,Heinz Field
+2012,2012-11-04,NYG,24-20,L,Away,MetLife Stadium
+2012,2012-11-12,KC,16-13,W,Home,Heinz Field
+2012,2012-11-18,BAL,10-13,L,Home,Heinz Field
+2012,2012-11-25,CLE,14-20,W,Away,Cleveland Browns Stadium
+2012,2012-12-02,BAL,23-20,L,Away,M&T Bank Stadium
+2012,2012-12-09,SD,24-34,L,Home,Heinz Field
+2012,2012-12-16,DAL,24-27,W,Away,Cowboys Stadium
+2012,2012-12-23,CIN,10-13,L,Home,Heinz Field
+2012,2012-12-30,CLE,24-10,W,Home,Heinz Field
+2013,2013-09-08,TEN,9-16,L,Home,Heinz Field
+2013,2013-09-16,CIN,10-20,W,Away,Paul Brown Stadium
+2013,2013-09-22,CHI,23-40,L,Home,Heinz Field
+2013,2013-09-29,MIN,27-34,W,Away,Wembley Stadium
+2013,2013-10-13,NYJ,19-6,L,Away,MetLife Stadium
+2013,2013-10-20,BAL,19-16,W,Home,Heinz Field
+2013,2013-10-27,OAK,18-21,W,Away,O.co Coliseum
+2013,2013-11-03,NE,31-55,W,Away,Gillette Stadium
+2013,2013-11-10,BUF,23-10,W,Home,Heinz Field
+2013,2013-11-17,DET,37-27,W,Home,Heinz Field
+2013,2013-11-24,CLE,27-11,L,Away,FirstEnergy Stadium
+2013,2013-11-28,BAL,20-22,W,Away,M&T Bank Stadium
+2013,2013-12-08,MIA,28-34,L,Home,Heinz Field
+2013,2013-12-15,CIN,30-20,W,Home,Heinz Field
+2013,2013-12-22,GB,38-31,L,Away,Lambeau Field
+2013,2013-12-29,CLE,20-7,W,Home,Heinz Field
+2014,2014-09-07,CLE,30-27,W,Home,Heinz Field
+2014,2014-09-11,BAL,6-26,W,Away,M&T Bank Stadium
+2014,2014-09-21,CAR,37-19,L,Away,Bank of America Stadium
+2014,2014-09-28,TB,24-27,L,Home,Heinz Field
+2014,2014-10-05,JAX,17-9,L,Away,EverBank Field
+2014,2014-10-12,CLE,10-31,W,Away,FirstEnergy Stadium
+2014,2014-10-20,HOU,30-23,W,Home,Heinz Field
+2014,2014-10-26,IND,51-34,W,Home,Heinz Field
+2014,2014-11-02,BAL,43-23,W,Home,Heinz Field
+2014,2014-11-09,NYJ,13-20,W,Away,MetLife Stadium
+2014,2014-11-17,TEN,27-24,L,Away,LP Field
+2014,2014-11-30,NO,32-35,L,Home,Heinz Field
+2014,2014-12-07,CIN,42-21,L,Away,Paul Brown Stadium
+2014,2014-12-14,ATL,27-20,L,Away,Georgia Dome
+2014,2014-12-21,KC,20-12,W,Home,Heinz Field
+2014,2014-12-28,CIN,27-17,W,Home,Heinz Field
+2014,2015-01-03,BAL,17-30,L,Home,Heinz Field
+2015,2015-09-10,NE,21-28,W,Away,Gillette Stadium
+2015,2015-09-20,SF,43-18,W,Home,Heinz Field
+2015,2015-09-27,STL,12-6,L,Away,Edward Jones Dome
+2015,2015-10-01,BAL,20-23,L,Home,Heinz Field
+2015,2015-10-12,SD,24-20,L,Away,Qualcomm Stadium
+2015,2015-10-18,ARI,25-13,W,Home,Heinz Field
+2015,2015-10-25,KC,13-23,W,Away,Arrowhead Stadium
+2015,2015-11-01,CIN,10-16,L,Home,Heinz Field
+2015,2015-11-08,OAK,38-35,W,Home,Heinz Field
+2015,2015-11-15,CLE,30-9,W,Home,Heinz Field
+2015,2015-11-29,SEA,30-39,W,Away,CenturyLink Field
+2015,2015-12-06,IND,45-10,W,Home,Heinz Field
+2015,2015-12-13,CIN,33-20,L,Away,Paul Brown Stadium
+2015,2015-12-20,DEN,34-27,W,Home,Heinz Field
+2015,2015-12-27,BAL,17-20,W,Away,M&T Bank Stadium
+2015,2016-01-03,CLE,28-12,L,Away,FirstEnergy Stadium
+2015,2016-01-09,CIN,18-16,L,Away,Paul Brown Stadium
+2015,2016-01-17,DEN,16-23,W,Away,Sports Authority Field at Mile High
+2016,2016-09-12,WAS,38-16,L,Away,FedExField
+2016,2016-09-18,CIN,24-16,W,Home,Heinz Field
+2016,2016-09-25,PHI,3-34,W,Away,Lincoln Financial Field
+2016,2016-10-02,KC,43-14,W,Home,Heinz Field
+2016,2016-10-09,NYJ,31-13,W,Home,Heinz Field
+2016,2016-10-16,MIA,15-30,W,Away,Hard Rock Stadium
+2016,2016-10-23,NE,16-27,L,Home,Heinz Field
+2016,2016-11-06,BAL,14-21,W,Away,M&T Bank Stadium
+2016,2016-11-13,DAL,30-35,L,Home,Heinz Field
+2016,2016-11-20,CLE,24-9,L,Away,FirstEnergy Stadium
+2016,2016-11-24,IND,28-7,L,Away,Lucas Oil Stadium
+2016,2016-12-04,NYG,24-14,W,Home,Heinz Field
+2016,2016-12-11,BUF,27-20,L,Away,New Era Field
+2016,2016-12-18,CIN,24-20,L,Away,Paul Brown Stadium
+2016,2016-12-25,BAL,31-27,W,Home,Heinz Field
+2016,2017-01-01,CLE,27-24,W,Home,Heinz Field
+2016,2017-01-08,MIA,30-12,W,Home,Heinz Field
+2016,2017-01-15,KC,18-16,L,Away,Arrowhead Stadium
+2016,2017-01-22,NE,17-36,W,Away,Gillette Stadium
+2017,2017-09-10,CLE,21-18,L,Away,FirstEnergy Stadium
+2017,2017-09-17,MIN,26-9,W,Home,Heinz Field
+2017,2017-09-24,CHI,17-23,W,Away,Soldier Field
+2017,2017-10-01,BAL,26-9,L,Away,M&T Bank Stadium
+2017,2017-10-08,JAX,9-30,L,Home,Heinz Field
+2017,2017-10-15,KC,19-13,L,Away,Arrowhead Stadium
+2017,2017-10-22,CIN,29-14,W,Home,Heinz Field
+2017,2017-10-29,DET,20-15,L,Away,Ford Field
+2017,2017-11-12,IND,20-17,L,Away,Lucas Oil Stadium
+2017,2017-11-16,TEN,40-17,W,Home,Heinz Field
+2017,2017-11-26,GB,31-28,W,Home,Heinz Field
+2017,2017-12-04,CIN,23-20,L,Away,Paul Brown Stadium
+2017,2017-12-10,BAL,39-38,W,Home,Heinz Field
+2017,2017-12-17,NE,24-27,L,Home,Heinz Field
+2017,2017-12-25,HOU,34-6,L,Away,NRG Stadium
+2017,2017-12-31,CLE,28-24,W,Home,Heinz Field
+2017,2018-01-14,JAX,42-45,L,Home,Heinz Field
+2018,2018-09-09,CLE,21-21,T,Away,FirstEnergy Stadium
+2018,2018-09-16,KC,37-42,L,Home,Heinz Field
+2018,2018-09-24,TB,30-27,L,Away,Raymond James Stadium
+2018,2018-09-30,BAL,14-26,L,Home,Heinz Field
+2018,2018-10-07,ATL,41-17,W,Home,Heinz Field
+2018,2018-10-14,CIN,28-21,L,Away,Paul Brown Stadium
+2018,2018-10-28,CLE,33-18,W,Home,Heinz Field
+2018,2018-11-04,BAL,23-16,L,Away,M&T Bank Stadium
+2018,2018-11-08,CAR,52-21,W,Home,Heinz Field
+2018,2018-11-18,JAX,20-16,L,Away,TIAA Bank Stadium
+2018,2018-11-25,DEN,17-24,W,Away,Sports Authority Field at Mile High
+2018,2018-12-02,LAC,30-33,L,Home,Heinz Field
+2018,2018-12-09,OAK,21-24,W,Away,Oakland-Alameda County Coliseum
+2018,2018-12-16,NE,17-10,W,Home,Heinz Field
+2018,2018-12-23,NO,28-31,W,Away,Mercedes-Benz Superdome
+2018,2018-12-30,CIN,16-13,W,Home,Heinz Field
+2019,2019-09-08,NE,3-33,W,Away,Gillette Stadium
+2019,2019-09-15,SEA,26-28,L,Home,Heinz Field
+2019,2019-09-22,SF,20-24,W,Away,Levi's Stadium
+2019,2019-09-30,CIN,27-3,W,Home,Heinz Field
+2019,2019-10-06,BAL,23-26,L,Home,Heinz Field
+2019,2019-10-13,LAC,24-17,L,Away,StubHub Center
+2019,2019-10-28,MIA,27-14,W,Home,Heinz Field
+2019,2019-11-03,IND,26-24,W,Home,Heinz Field
+2019,2019-11-10,LA,17-12,W,Home,Heinz Field
+2019,2019-11-14,CLE,7-21,W,Away,FirstEnergy Stadium
+2019,2019-11-24,CIN,16-10,L,Away,Paul Brown Stadium
+2019,2019-12-01,CLE,20-13,W,Home,Heinz Field
+2019,2019-12-08,ARI,23-17,L,Away,State Farm Stadium
+2019,2019-12-15,BUF,10-17,L,Home,Heinz Field
+2019,2019-12-22,NYJ,10-16,W,Away,MetLife Stadium
+2019,2019-12-29,BAL,10-28,W,Away,M&T Bank Stadium
+2020,2020-09-14,NYG,26-16,L,Away,MetLife Stadium
+2020,2020-09-20,DEN,26-21,W,Home,Heinz Field
+2020,2020-09-27,HOU,28-21,W,Home,Heinz Field
+2020,2020-10-11,PHI,38-29,W,Home,Heinz Field
+2020,2020-10-18,CLE,38-7,W,Home,Heinz Field
+2020,2020-10-25,TEN,27-24,L,Away,Nissan Stadium
+2020,2020-11-01,BAL,28-24,L,Away,M&T Bank Stadium
+2020,2020-11-08,DAL,24-19,L,Away,AT&T Stadium
+2020,2020-11-15,CIN,36-10,W,Home,Heinz Field
+2020,2020-11-22,JAX,27-3,L,Away,TIAA Bank Stadium
+2020,2020-12-02,BAL,19-14,W,Home,Heinz Field
+2020,2020-12-07,WAS,17-23,L,Home,Heinz Field
+2020,2020-12-13,BUF,15-26,W,Away,New Era Field
+2020,2020-12-21,CIN,17-27,W,Away,Paul Brown Stadium
+2020,2020-12-27,IND,28-24,W,Home,Heinz Field
+2020,2021-01-03,CLE,22-24,W,Away,FirstEnergy Stadium
+2020,2021-01-10,CLE,37-48,L,Home,Heinz Field
+2021,2021-09-12,BUF,23-16,L,Away,New Era Field
+2021,2021-09-19,LV,17-26,L,Home,Heinz Field
+2021,2021-09-26,CIN,10-24,L,Home,Heinz Field
+2021,2021-10-03,GB,17-27,W,Away,Lambeau Field
+2021,2021-10-10,DEN,27-19,W,Home,Heinz Field
+2021,2021-10-17,SEA,23-20,W,Home,Heinz Field
+2021,2021-10-31,CLE,15-10,L,Away,FirstEnergy Stadium
+2021,2021-11-08,CHI,29-27,W,Home,Heinz Field
+2021,2021-11-14,DET,16-16,T,Home,Heinz Field
+2021,2021-11-21,LAC,37-41,W,Away,SoFi Stadium
+2021,2021-11-28,CIN,10-41,W,Away,Paul Brown Stadium
+2021,2021-12-05,BAL,20-19,W,Home,Heinz Field
+2021,2021-12-09,MIN,28-36,W,Away,U.S. Bank Stadium
+2021,2021-12-19,TEN,19-13,W,Home,Heinz Field
+2021,2021-12-26,KC,10-36,W,Away,GEHA Field at Arrowhead Stadium
+2021,2022-01-03,CLE,26-14,W,Home,Heinz Field
+2021,2022-01-09,BAL,16-13,L,Away,M&T Bank Stadium
+2021,2022-01-16,KC,21-42,W,Away,GEHA Field at Arrowhead Stadium
+2022,2022-09-11,CIN,23-20,L,Away,Paycor Stadium
+2022,2022-09-18,NE,14-17,L,Home,Acrisure Stadium
+2022,2022-09-22,CLE,17-29,W,Away,FirstEnergy Stadium
+2022,2022-10-02,NYJ,20-24,L,Home,Acrisure Stadium
+2022,2022-10-09,BUF,3-38,W,Away,New Era Field
+2022,2022-10-16,TB,20-18,W,Home,Acrisure Stadium
+2022,2022-10-23,MIA,10-16,W,Away,Hard Rock Stadium
+2022,2022-10-30,PHI,13-35,W,Away,Lincoln Financial Field
+2022,2022-11-13,NO,20-10,W,Home,Acrisure Stadium
+2022,2022-11-20,CIN,30-37,L,Home,Acrisure Stadium
+2022,2022-11-28,IND,24-17,L,Away,Lucas Oil Stadium
+2022,2022-12-04,ATL,19-16,L,Away,Mercedes-Benz Stadium
+2022,2022-12-11,BAL,14-16,L,Home,Acrisure Stadium
+2022,2022-12-18,CAR,24-16,L,Away,Bank of America Stadium
+2022,2022-12-24,LV,13-10,W,Home,Acrisure Stadium
+2022,2023-01-01,BAL,16-13,L,Away,M&T Bank Stadium
+2022,2023-01-08,CLE,28-14,W,Home,Acrisure Stadium
+2023,2023-09-10,SF,7-30,L,Home,Acrisure Stadium
+2023,2023-09-18,CLE,26-22,W,Home,Acrisure Stadium
+2023,2023-09-24,LV,23-18,L,Away,Allegiant Stadium
+2023,2023-10-01,HOU,6-30,W,Away,NRG Stadium
+2023,2023-10-08,BAL,17-10,W,Home,Acrisure Stadium
+2023,2023-10-22,LA,24-17,L,Away,SoFi Stadium
+2023,2023-10-29,JAX,10-20,L,Home,Acrisure Stadium
+2023,2023-11-02,TEN,20-16,W,Home,Acrisure Stadium
+2023,2023-11-12,GB,23-19,W,Home,Acrisure Stadium
+2023,2023-11-19,CLE,10-13,W,Away,FirstEnergy Stadium
+2023,2023-11-26,CIN,16-10,L,Away,Paycor Stadium
+2023,2023-12-03,ARI,10-24,L,Home,Acrisure Stadium
+2023,2023-12-07,NE,18-21,L,Home,Acrisure Stadium
+2023,2023-12-16,IND,13-30,W,Away,Lucas Oil Stadium
+2023,2023-12-23,CIN,34-11,W,Home,Acrisure Stadium
+2023,2023-12-31,SEA,30-23,L,Away,Lumen Field
+2023,2024-01-06,BAL,17-10,L,Away,M&T Bank Stadium
+2023,2024-01-15,BUF,17-31,W,Away,New Era Field
+2024,2024-09-08,ATL,18-10,L,Away,Mercedes-Benz Stadium
+2024,2024-09-15,DEN,13-6,L,Away,Empower Field at Mile High
+2024,2024-09-22,LAC,20-10,W,Home,Acrisure Stadium
+2024,2024-09-29,IND,24-27,W,Away,Lucas Oil Stadium
+2024,2024-10-06,DAL,17-20,L,Home,Acrisure Stadium
+2024,2024-10-13,LV,32-13,L,Away,Allegiant Stadium
+2024,2024-10-20,NYJ,37-15,W,Home,Acrisure Stadium
+2024,2024-10-28,NYG,26-18,W,Home,Acrisure Stadium
+2024,2024-11-10,WAS,28-27,L,Away,FedExField
+2024,2024-11-17,BAL,18-16,W,Home,Acrisure Stadium
+2024,2024-11-21,CLE,19-24,W,Away,FirstEnergy Stadium
+2024,2024-12-01,CIN,44-38,L,Away,Paycor Stadium
+2024,2024-12-08,CLE,27-14,W,Home,Acrisure Stadium
+2024,2024-12-15,PHI,13-27,W,Away,Lincoln Financial Field
+2024,2024-12-21,BAL,17-34,W,Away,M&T Bank Stadium
+2024,2024-12-25,KC,10-29,L,Home,Acrisure Stadium
+2024,2025-01-04,CIN,17-19,L,Home,Acrisure Stadium
+2024,2025-01-11,BAL,14-28,W,Away,M&T Bank Stadium
